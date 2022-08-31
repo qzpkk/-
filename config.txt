@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxa10cf2b8895ac49c",
+# 公众号appSecret
+"app_secret": "91424f755f20b2e8830aee7fcbfd1368",
+# 模板消息id
+"template_id": "fQir72MpznKEW6In7IdRnDhfV8hh2Y1rpw-uk2YD03k",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o3-gf5i19qp4JOgVHHD-7dgvXOfc"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "2fda4218c5ea44f3bfab65f46f7d4f2f",
+# 天行数据apikey
+"tian_api": "ca2c2113090f601a846855e36813e948",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "南宁",
+# 生日
+"birthday1": {"name": "詹永安", "birthday": "2004-08-26"},
+# 在一起的日子，格式同上
+"love_date": "2021-04-23",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "星星永远发着光，我也会在你身旁",
+# 金句英文
+"note_en": "The stars will always shine,and i will be by your side"
+}
